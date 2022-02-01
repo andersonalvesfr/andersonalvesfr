@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/andersonalvesfr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesfr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesfr&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesfr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesfr&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 <p></p>
 <div>
@@ -22,8 +22,9 @@
   <a href="https://www.linkedin.com/in/andersonalvesfr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a border="10px solid black" href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
 </div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+![Snake animation](https://github.com/rafaballerini/andersonalvesfr/blob/output/github-contribution-grid-snake.svg)
+  </div>
 Here are some ideas to get you started:
 
 - 🔭 Atualmente sou professor de programação para crianças
