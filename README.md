@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/andersonalvesfr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesfr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesfr&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesfr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesfr&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 <p></p>
 <div>
