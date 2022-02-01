@@ -20,22 +20,14 @@
   <a href="https://instagram.com/andersonalvesfr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:anderson.alves.francisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andersonalvesfr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a border="10px solid black" href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
+</div>
+<p></p>
+<div>
+<a border="10px solid black" href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
 </div>
 <div>
 ![Snake animation](https://github.com/andersonalvesfr/andersonalvesfr/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
-  
-Here are some ideas to get you started:
-
-- 🔭 Atualmente sou professor de programação para crianças
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
