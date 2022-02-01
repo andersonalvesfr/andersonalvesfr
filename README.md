@@ -23,10 +23,10 @@
 </div>
 <p></p>
 <div>
-<a border="10px solid black" href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
+<a href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
 </div>
 <div>
-![Snake animation](https://github.com/andersonalvesfr/andersonalvesfr/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
 
