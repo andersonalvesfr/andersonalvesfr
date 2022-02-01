@@ -1,4 +1,4 @@
-<b>Olá, eu sou Anderson Alves, professor de programação para crianças</b>
+<b>##Olá, eu sou Anderson Alves, professor de programação para crianças</b>
 
 
 <div align="center">
@@ -25,10 +25,3 @@
 <div>
 <a href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
 </div>
-<p></p>  
-<div>
-![snake gif](https://github.com/andersonalvesfr/andersonalvesfr/blob/output/github-contribution-grid-snake.gif)
-</div>
-
-
-
