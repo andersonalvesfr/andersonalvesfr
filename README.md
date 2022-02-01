@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/andersonalvesfr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesfr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesfr&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonalvesfr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalvesfr&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 <p></p>
 <div>
@@ -23,7 +23,7 @@
   <a border="10px solid black" href="https://linktr.ee/andersonalvesfr" target="_blank"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/200px-Linktree.svg.png"></a>
 </div>
 <div>
-![Snake animation](https://github.com/andersonalvesfr/andersonalvesfr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/andersonalvesfr/andersonalvesfr/blob/output/github-contribution-grid-snake.svg) 
 </div>
 
   
